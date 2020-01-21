@@ -16,4 +16,6 @@ yokkm
 
 
 * pollutionScrape.py - Only for Scraping data from Berkeley Earth website (All data were collect on 21/01/2020 3.00PM)
+  * if you run pollutionScrape.py on your machine, you're probably found your dataset located at your current working directory under file name 'pollutiondata'
+  
 * pollutiondata.zip - contains all .txt file (22 provinces- BKK and its neighborhood)
